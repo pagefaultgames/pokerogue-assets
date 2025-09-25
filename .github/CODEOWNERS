@@ -1,0 +1,11 @@
+# Art Team
+/**/*.png @pagefaultgames/art-team
+/**/*.json @pagefaultgames/art-team
+/images @pagefaultgames/art-team
+/battle-anims @pagefaultgames/art-team
+
+# Audio files
+*.mp3 @pagefaultgames/composer-team
+*.wav @pagefaultgames/composer-team
+*.ogg @pagefaultgames/composer-team
+/audio @pagefaultgames/composer-team
