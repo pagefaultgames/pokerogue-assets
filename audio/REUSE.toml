@@ -147,7 +147,6 @@ path = [
     "bgm/mystery_encounter_gen_5_gts.mp3",
     "bgm/mystery_encounter_gen_6_gts.mp3",
     "bgm/mystery_encounter_weird_dream.mp3",
-    "bgm/snowy_forest.mp3",
     "bgm/swamp.mp3",
     "bgm/tall_grass.mp3",
     "bgm/temple.mp3",
@@ -203,6 +202,11 @@ SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 [[annotations]] # Leavannite
 path = ["bgm/wasteland.mp3"]
 SPDX-FileCopyrightText = "Leavannite"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # Bird_Obsession
+path = ["bgm/snowy_forest.mp3"]
+SPDX-FileCopyrightText = "Bird_Obsession"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 
