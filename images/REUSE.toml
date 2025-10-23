@@ -11,6 +11,36 @@ path = ["pb.png",
 SPDX-FileCopyrightText = "Nintendo, Game Freak, and Creatures Inc."
 SPDX-License-Identifier = "LicenseRef-FAIR-USE"
 
+[[annotations]] # damocleas
+path = [
+"items/classic_ribbon_10.png",
+"items/classic_ribbon_15.png",
+"items/classic_ribbon_5.png",
+"items/classic_ribbon_default.png",
+"items/ribbon_bug.png",
+"items/ribbon_dark.png",
+"items/ribbon_dragon.png",
+"items/ribbon_electric.png",
+"items/ribbon_fairy.png",
+"items/ribbon_fighting.png",
+"items/ribbon_fire.png",
+"items/ribbon_flying.png",
+"items/ribbon_friendship.png",
+"items/ribbon_ghost.png",
+"items/ribbon_grass.png",
+"items/ribbon_ground.png",
+"items/ribbon_ice.png",
+"items/ribbon_normal.png",
+"items/ribbon_poison.png",
+"items/ribbon_psychic.png",
+"items/ribbon_rock.png",
+"items/ribbon_steel.png",
+"items/ribbon_typeless.png",
+"items/ribbon_water.png",
+]
+SPDX-FileCopyrightText = "2024-2025 Pagefault Games"
+SPDX-License-Identifier = "AGPL-3.0-only"
+
 [[annotations]] # JSONs created via our own tooling (colormaps for variants must not be listed here!)
 # list of json files that were generated from tooling and describe the animation
 # for a png file found via the following shell command:
