@@ -6,7 +6,7 @@ version = 1
 #  When adding attributions to a variant file where two different people
 # created different variants, you MUST add a seprate `[[annotations]]` entry, and it
 # MUST use comma-separated names
-# Though, if the same set of authors share the same, then multipe variants can be
+# Though, if the same set of authors share the same, then multiple variants can be
 # under the same [[annotations]] entry
 # e.g., `SPDX-FileCopyrightText = 2024-2025 John Doe, Jane Smith`
 # A note _MAY_ be added as metadata, via an additional key, like
@@ -141,6 +141,54 @@ path = [
     "back/386-defense.json",
     "386-speed.json",
     "back/386-speed.json",
+
+    # Voltorb
+    "100.json",
+    "back/100.json",
+    # Electrode
+    "101.json",
+    "back/101.json",
+
+    # Lapras
+    "131.json",
+    "back/131.json",
+    # G-Max Lapras
+    "131-gigantamax.json",
+    "back/131-gigantamax.json",
+
+    # Giratina
+    "487-altered.json",
+    "back/487-altered.json",
+    "487-origin.json",
+    "back/487-origin.json",
+
+    # Larvesta
+    "636.json",
+    "back/636.json",
+    # Volcarona
+    "637.json",
+    "back/637.json",
+
+    # Hisui Voltorb
+    "6100.json",
+    "back/6100.json",
+    # Hisui Electrode
+    "6101.json",
+    "back/6101.json",
+
+    # Tirtouga
+    "564.json",
+    "back/564.json",
+    # Carracosta
+    "565.json",
+    "back/565.json",
+
+    # Jynx
+    "124.json",
+    "back/124.json",
+    # Smoochum
+    "238.json",
+    "back/238.json",
 ]
 SPDX-FileCopyrightText = "2024-2025 hanniel.15"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
@@ -154,6 +202,65 @@ path = [
     "back/208.json",
 ]
 SPDX-FileCopyrightText = "2024 Vari"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # Momo's variants
+path = [
+    # Sentret
+    "161.json",
+    "back/161.json",
+    # Furret
+    "162.json",
+    "back/162.json",
+
+    # Celebi
+    "251.json",
+    "back/251.json",
+
+    # Manectric
+    "310.json",
+    "back/310.json",
+    # Mega Manectric
+    "310-mega.json",
+    "back/310-mega.json",
+
+    # Chimecho
+    "358.json",
+    "back/358.json",
+    # Chingling
+    "433.json",
+    "back/433.json",
+
+    # Chansey
+    "133.json",
+    "back/133.json",
+    # Blissey
+    "242.json",
+    "back/242.json",
+    # Happiny
+    "440.json",
+    "back/440.json",
+
+    # Cresselia
+    "488.json",
+    "back/488.json",
+
+    # Caterpie
+    "10.json",
+    "back/10.json",
+    # Metapod
+    "11.json",
+    "back/11.json",
+    # Butterfree
+    "12.json",
+    "female/12.json",
+    "back/12.json",
+    "back/female/12.json",
+    # G-Max Butterfree
+    "12-gigantamax.json",
+    "back/12-gigantamax.json",
+]
+SPDX-FileCopyrightText = "2025 Momo"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # Green Ninja's variants
@@ -183,6 +290,195 @@ path = [
 SPDX-FileCopyrightText = "2024 OfficerPorkchop"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 # todo: officer porkchops also responsible for Console / PC buttons: https://discord.com/channels/1125469663833370665/1243375609959415958/1419140858657243167
+
+[[annotations]] # Crowo's variants
+path = [
+    # Paras
+    "46.json",
+    "back/46.json",
+    # Parasect
+    "47.json",
+    "back/47.json",
+]
+SPDX-FileCopyrightText = "2025 Crowo"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # Splash Damage's variants
+path = [
+    # Aerodactyl
+    "142.json",
+    "back/142.json",
+    # Mega Aerodactyl
+    "142-mega.json",
+    "back/142-mega.json",
+
+    # Wingull
+    "278.json",
+    "back/278.json",
+    # Pelipper
+    "279.json",
+    "back/279.json",
+
+    # Ralts
+    "280.json",
+    "back/280.json",
+    # Kirlia
+    "281.json",
+    "back/281.json",
+    # Gardevoir
+    "282.json",
+    "back/282.json",
+    # Mega Gardevoir
+    "282-mega.json",
+    "back/282-mega.json",
+    # Gallade
+    "475.json",
+    "back/475.json",
+    # Mega Gallade
+    "475-mega.json",
+    "back/475-mega.json",
+]
+SPDX-FileCopyrightText = "2025 Splash Damage"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # TheTruEggE's variants
+path = [
+    # Spearow
+    "21.json",
+    "back/21.json",
+    # Fearow
+    "22.json",
+    "back/22.json",
+]
+SPDX-FileCopyrightText = "2025 TheTruEggE"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # BlindVoid's variants
+path = [
+    # Dwebble
+    "557.json",
+    "back/557.json",
+    # Crustle
+    "558.json",
+    "back/558.json",
+]
+SPDX-FileCopyrightText = "2025 BlindVoid"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # Gyaradope's variants
+path = [
+    # Gulpin
+    "316.json",
+    "female/316.json",
+    "back/316.json",
+    "back/female/316.json",
+    # Swalot
+    "317.json",
+    "female/317.json",
+    "back/317.json",
+    "back/female/317.json",
+
+    # Clamperl
+    "366.json",
+    "back/366.json",
+    # Huntail
+    "367.json",
+    "back/367.json",
+    # Gorebyss
+    "368.json",
+    "back/368.json",
+]
+SPDX-FileCopyrightText = "2025 Gyaradope"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # Leavannite's variants
+path = [
+    # Wurmple
+    "265.json",
+    "back/265.json",
+    # Silcoon
+    "266.json",
+    "back/266.json",
+    # Beautifly
+    "267.json",
+    "female/267.json",
+    "back/267.json",
+    "back/female/267.json",
+    # Cascoon
+    "268.json",
+    "back/268.json",
+    # Dustox
+    "269.json",
+    "female/269.json",
+    "back/269.json",
+    "back/female/269.json",
+]
+SPDX-FileCopyrightText = "2025 Leavannite"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # swegbo1's variants
+path = [
+    # Sandygast
+    "769.json",
+    "back/769.json",
+    # Palossand
+    "770.json",
+    "back/770.json",
+]
+SPDX-FileCopyrightText = "2025 swegbo1"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # Fontbane's variants
+path = [
+    # Lickitung
+    "108.json",
+    "back/108.json",
+    # Lickilicky
+    "463.json",
+    "back/463.json",
+]
+SPDX-FileCopyrightText = "2025 Fontbane"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # SplashCeles' variants
+path = [
+    # Feebas
+    "349.json",
+    "back/349.json",
+    # Milotic
+    "350.json",
+    "female/350.json",
+    "back/350.json",
+    "back/female/350.json",
+]
+SPDX-FileCopyrightText = "2025 SplashCeles"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # Starkrieg's variants
+path = [
+    # Psyduck
+    "54.json",
+    "back/54.json",
+    # Golduck
+    "55.json",
+    "back/55.json",
+]
+SPDX-FileCopyrightText = "2025 Starkrieg"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # bwl's variants
+path = [
+    # Wobbuffet
+    "202.json",
+    "female/202.json",
+    "back/202.json",
+    "back/female/202.json",
+    # Wynaut
+    "360.json",
+    "back/360.json",
+]
+SPDX-FileCopyrightText = "2025 bwl"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 ###############################
 # Multi-Author Variants Below #
