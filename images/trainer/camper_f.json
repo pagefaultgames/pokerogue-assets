@@ -1,11 +1,11 @@
 {
 	"textures": [
 		{
-			"image": "beauty.png",
+			"image": "camper_f.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 72,
-				"h": 72
+				"w": 54,
+				"h": 54
 			},
 			"scale": 1,
 			"frames": [
@@ -14,20 +14,20 @@
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 41,
-						"h": 72
+						"w": 35,
+						"h": 54
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 41,
-						"h": 72
+						"w": 35,
+						"h": 54
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-						"w": 41,
-						"h": 72
+						"w": 35,
+						"h": 54
 					}
 				}
 			]
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:cf59fcde346a1d9bb7fbb87f8fb9083f:b864d1458109cb62778d50e0e70d6f0b:43e646aa87d09b8466abf816557d4aaf$"
+		"smartupdate": "$TexturePacker:SmartUpdate:3adfe77cc6a3be309d4525ced007fd3a:2505e49aa9544e0167a7443a86b35b72:c293b5581cf80ff2fc15b297a4bf9a36$"
 	}
 }

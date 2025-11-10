@@ -1,11 +1,11 @@
 {
 	"textures": [
 		{
-			"image": "beauty.png",
+			"image": "bird_keeper_f.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 72,
-				"h": 72
+				"w": 73,
+				"h": 73
 			},
 			"scale": 1,
 			"frames": [
@@ -15,19 +15,19 @@
 					"trimmed": false,
 					"sourceSize": {
 						"w": 41,
-						"h": 72
+						"h": 73
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
 						"w": 41,
-						"h": 72
+						"h": 73
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
 						"w": 41,
-						"h": 72
+						"h": 73
 					}
 				}
 			]
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:cf59fcde346a1d9bb7fbb87f8fb9083f:b864d1458109cb62778d50e0e70d6f0b:43e646aa87d09b8466abf816557d4aaf$"
+		"smartupdate": "$TexturePacker:SmartUpdate:fa3d53c878394204bc5a0137a88c50f8:41c8d770b75c2eab741a2a797f581378:556794383966ab0d390720def083c6b5$"
 	}
 }
