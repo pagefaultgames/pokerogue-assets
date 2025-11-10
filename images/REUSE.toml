@@ -13,6 +13,7 @@ SPDX-License-Identifier = "LicenseRef-FAIR-USE"
 
 [[annotations]] # damocleas
 path = [
+"items/ability_charm.png",
 "items/classic_ribbon_10.png",
 "items/classic_ribbon_15.png",
 "items/classic_ribbon_5.png",
@@ -29,6 +30,7 @@ path = [
 "items/ribbon_ghost.png",
 "items/ribbon_grass.png",
 "items/ribbon_ground.png",
+"items/healing_charm.png",
 "items/ribbon_ice.png",
 "items/ribbon_normal.png",
 "items/ribbon_poison.png",
