@@ -47,7 +47,7 @@ SPDX-License-Identifier = "AGPL-3.0-only"
 path = [
 "trainer/bug_type_superfan.png",
 ]
-SPDX-FileCopyrightText = "2024 Chani von Karpa"
+SPDX-FileCopyrightText = "2025 Chani von Karpa"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # JSONs created via our own tooling (colormaps for variants must not be listed here!)
