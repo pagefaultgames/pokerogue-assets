@@ -1,11 +1,11 @@
 {
 	"textures": [
 		{
-			"image": "beauty.png",
+			"image": "dragon_tamer.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 72,
-				"h": 72
+				"w": 78,
+				"h": 78
 			},
 			"scale": 1,
 			"frames": [
@@ -14,20 +14,20 @@
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 41,
-						"h": 72
+						"w": 44,
+						"h": 78
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 41,
-						"h": 72
+						"w": 44,
+						"h": 78
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-						"w": 41,
-						"h": 72
+						"w": 44,
+						"h": 78
 					}
 				}
 			]
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:cf59fcde346a1d9bb7fbb87f8fb9083f:b864d1458109cb62778d50e0e70d6f0b:43e646aa87d09b8466abf816557d4aaf$"
+		"smartupdate": "$TexturePacker:SmartUpdate:d9ecbc4c0f0fab01b89f4ea63e5fdc71:a98112d780b083c621526564e313a997:ecf92b5c815fe935c4d15f454eb5f579$"
 	}
 }
