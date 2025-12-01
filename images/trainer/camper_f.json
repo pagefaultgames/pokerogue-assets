@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "camper_f.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 54,
+				"h": 54
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 54
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 54
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3adfe77cc6a3be309d4525ced007fd3a:2505e49aa9544e0167a7443a86b35b72:c293b5581cf80ff2fc15b297a4bf9a36$"
+	}
+}

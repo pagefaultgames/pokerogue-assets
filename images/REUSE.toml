@@ -13,6 +13,7 @@ SPDX-License-Identifier = "LicenseRef-FAIR-USE"
 
 [[annotations]] # damocleas
 path = [
+"items/ability_charm.png",
 "items/classic_ribbon_10.png",
 "items/classic_ribbon_15.png",
 "items/classic_ribbon_5.png",
@@ -29,6 +30,7 @@ path = [
 "items/ribbon_ghost.png",
 "items/ribbon_grass.png",
 "items/ribbon_ground.png",
+"items/healing_charm.png",
 "items/ribbon_ice.png",
 "items/ribbon_normal.png",
 "items/ribbon_poison.png",
@@ -40,6 +42,13 @@ path = [
 ]
 SPDX-FileCopyrightText = "2024-2025 Pagefault Games"
 SPDX-License-Identifier = "AGPL-3.0-only"
+
+[[annotations]] # Chani von Karpa
+path = [
+"trainer/bug_type_superfan.png",
+]
+SPDX-FileCopyrightText = "2025 Chani von Karpa"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # JSONs created via our own tooling (colormaps for variants must not be listed here!)
 # list of json files that were generated from tooling and describe the animation
@@ -9293,6 +9302,24 @@ path = [
 "trainer/tabitha.json",
 "trainer/hooligans.json",
 "trainer/snow_worker_f.json",
+"trainer/aroma_lady.json",
+"trainer/beauty_2.json",
+"trainer/bird_keeper_f.json",
+"trainer/bird_keeper_m.json",
+"trainer/bug_catcher.json",
+"trainer/camper_f.json",
+"trainer/camper_m.json",
+"trainer/collector.json",
+"trainer/dragon_tamer.json",
+"trainer/fairy_tale_girl.json",
+"trainer/interviewers.json",
+"trainer/mysterious_sisters.json",
+"trainer/ruin_maniac.json",
+"trainer/scuba_diver_f.json",
+"trainer/scuba_diver_m.json",
+"trainer/snow_ace_trainer_f.json",
+"trainer/snow_ace_trainer_m.json",
+"trainer/young_couple.json",
 "pokemon_icons_8.json",
 "statuses_pt-BR.json",
 "inputs/keyboard.json",
