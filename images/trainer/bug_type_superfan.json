@@ -4,8 +4,8 @@
 			"image": "bug_type_superfan.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 72,
-				"h": 72
+				"w": 70,
+				"h": 70
 			},
 			"scale": 1,
 			"frames": [
@@ -14,20 +14,20 @@
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 61,
-						"h": 72
+						"w": 62,
+						"h": 70
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 61,
-						"h": 72
+						"w": 62,
+						"h": 70
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-						"w": 61,
-						"h": 72
+						"w": 62,
+						"h": 70
 					}
 				}
 			]
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:6ff7c04746c96163fe2364a3106f9152:8c6e34aa418d08da6615fff7d79c8db8:621aca0914900a3b9e235ebf0431ce2b$"
+		"smartupdate": "$TexturePacker:SmartUpdate:17dfdd58a1dfae46da8bfa5f95c8bbce:871e247414291e012b1775a83b809054:621aca0914900a3b9e235ebf0431ce2b$"
 	}
 }
