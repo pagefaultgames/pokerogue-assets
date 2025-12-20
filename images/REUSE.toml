@@ -39,6 +39,13 @@ path = [
 "items/ribbon_steel.png",
 "items/ribbon_typeless.png",
 "items/ribbon_water.png",
+"ui/apple_oath.png",
+"ui/github_oath.png",
+"ui/kakao_oath.png",
+"ui/line_oath.png",
+"ui/pixiv_oath.png",
+"ui/reddit_oath.png",
+"ui/steam_oath.png",
 ]
 SPDX-FileCopyrightText = "2024-2025 Pagefault Games"
 SPDX-License-Identifier = "AGPL-3.0-only"
@@ -48,6 +55,17 @@ path = [
 "trainer/bug_type_superfan.png",
 ]
 SPDX-FileCopyrightText = "2025 Chani von Karpa"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # Dops
+path = [
+"items/boss_mini_black_hole.png",
+"items/diffusion_lens",
+"items/golden_net",
+"items/mini_black_hole.png",
+"items/multi_lens",
+]
+SPDX-FileCopyrightText = "2025 Dops"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # JSONs created via our own tooling (colormaps for variants must not be listed here!)

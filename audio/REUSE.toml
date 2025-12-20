@@ -150,7 +150,6 @@ path = [
     "bgm/swamp.mp3",
     "bgm/tall_grass.mp3",
     "bgm/temple.mp3",
-    "bgm/title.mp3",
     "bgm/town.mp3",
     # end background music
 ]
@@ -195,6 +194,7 @@ path = [
     "bgm/slum.mp3",
     "bgm/title_afd.mp3",
     "bgm/battle_rival_3_afd.mp3",
+    "bgm/winter_title.mp3",
 ]
 SPDX-FileCopyrightText = "Andr06"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
