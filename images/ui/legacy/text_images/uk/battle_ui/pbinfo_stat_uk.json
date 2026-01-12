@@ -4,7 +4,7 @@
 			"image": "pbinfo_stat_uk.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 112,
+				"w": 122,
 				"h": 6
 			},
 			"scale": 1,
@@ -161,19 +161,19 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 13,
+						"w": 15,
 						"h": 8
 					},
 					"spriteSourceSize": {
 						"x": 1,
 						"y": 2,
-						"w": 12,
+						"w": 15,
 						"h": 6
 					},
 					"frame": {
 						"x": 100,
 						"y": 0,
-						"w": 12,
+						"w": 15,
 						"h": 6
 					}
 				},
@@ -192,7 +192,7 @@
 						"h": 6
 					},
 					"frame": {
-						"x": 112,
+						"x": 114,
 						"y": 0,
 						"w": 8,
 						"h": 6
