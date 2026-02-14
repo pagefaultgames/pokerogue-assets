@@ -69,6 +69,15 @@ path = [
 SPDX-FileCopyrightText = "2025 Dops"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
+[[annotations]] # Red
+path = [
+"trainer/aliana.png",
+"trainer/celosia.png",
+"trainer/mable.png",
+]
+SPDX-FileCopyrightText = "2026 Red"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
 [[annotations]] # JSONs created via our own tooling (colormaps for variants must not be listed here!)
 # list of json files that were generated from tooling and describe the animation
 # for a png file found via the following shell command:
@@ -9339,6 +9348,9 @@ path = [
 "trainer/snow_ace_trainer_f.json",
 "trainer/snow_ace_trainer_m.json",
 "trainer/young_couple.json",
+"trainer/aliana.json",
+"trainer/celosia.json",
+"trainer/mable.json",
 "pokemon_icons_8.json",
 "statuses_pt-BR.json",
 "inputs/keyboard.json",
