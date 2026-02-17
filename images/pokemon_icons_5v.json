@@ -5113,7 +5113,7 @@
 					}
 				},
 				{
-					"filename": "642-therian_2",
+					"filename": "642-incarnate_3",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -5134,7 +5134,7 @@
 					}
 				},
 				{
-					"filename": "642-therian_3",
+					"filename": "642-therian_2",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -5155,7 +5155,7 @@
 					}
 				},
 				{
-					"filename": "642_incarnate_3",
+					"filename": "642-therian_3",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -5853,6 +5853,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:bbf9dfcc280e81e672a700617cc7ba36:ef83b30f6bebb2b991a09b0e7f18c7be:f1931bc28ee7f32dba7543723757cf2a$"
+		"smartupdate": "$TexturePacker:SmartUpdate:74626fe647ce3e4c0ccb42a8f1e3083c:1af90df756f748f232e7b09270c82bfd:f1931bc28ee7f32dba7543723757cf2a$"
 	}
 }
