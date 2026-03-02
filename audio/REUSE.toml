@@ -182,7 +182,12 @@ SPDX-FileCopyrightText = "Firel"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # LMZ
-path = ["bgm/jungle.mp3", "bgm/lake.mp3", "bgm/ruins.mp3"]
+path = [
+    "bgm/jungle.mp3",
+    "bgm/lake.mp3",
+    "bgm/ruins.mp3",
+    "bgm/rocky_coast.mp3"
+]
 SPDX-FileCopyrightText = "Lmz"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
@@ -207,6 +212,11 @@ SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 [[annotations]] # Bird_Obsession
 path = ["bgm/snowy_forest.mp3"]
 SPDX-FileCopyrightText = "Bird_Obsession"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # Veilure
+path = ["bgm/underground_well.mp3"]
+SPDX-FileCopyrightText = "Veilure"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 
