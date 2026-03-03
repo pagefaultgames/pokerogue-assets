@@ -14,7 +14,7 @@ desktop.ini
 *.njsproj
 *.sln
 *.sw?
-/vs
+/.vs
 
 images/trainer/convert/*
 images/battle_anims/input/*.png
