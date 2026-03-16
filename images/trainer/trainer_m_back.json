@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "trainer_m_back.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 105,
+				"h": 105
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 105
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 105
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:89261545b0621f80f742390c63cea369:b7f28b8fcffd0be30957befff87c2d67:475d2a61f36e8b546455c33eed6b2d32$"
+	}
+}

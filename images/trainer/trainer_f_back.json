@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "trainer_f_back.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 100,
+				"h": 100
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 100
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 100
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cca169bb6110ac98a300b3b4009a4f83:8ee8ccf6cc4834d6a888277c031fe3b2:10a006cb9dc3d266b3827d6d92b8ea03$"
+	}
+}

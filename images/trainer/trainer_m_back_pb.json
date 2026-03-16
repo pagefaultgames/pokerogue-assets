@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "trainer_m_back_pb.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 115,
+				"h": 206
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 105
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 105
+					}
+				},
+				{
+					"filename": "2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 115
+					},
+					"frame": {
+						"x": 58,
+						"y": 0,
+						"w": 57,
+						"h": 115
+					}
+				},
+				{
+					"filename": "3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 91
+					},
+					"frame": {
+						"x": 0,
+						"y": 115,
+						"w": 75,
+						"h": 91
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:dc85f1f2c12882f8a2a53e9fad4ba49b:de8614e1e4494049a537d33fa1238455:a2415e768fe30271bee6a79b25f7fd21$"
+	}
+}
