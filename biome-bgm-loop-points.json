@@ -33,5 +33,10 @@
   "temple": 2.547,
   "town": 7.288,
   "volcano": 17.637,
-  "wasteland": 6.024
+  "wasteland": 6.024,
+  "savannah": 0,
+  "summit": 0,
+  "rocky_coast": 0,
+  "underground_well": 0,
+  "crystal_cavern": 0
 }

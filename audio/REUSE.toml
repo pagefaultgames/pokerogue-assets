@@ -219,6 +219,11 @@ path = ["bgm/underground_well.mp3"]
 SPDX-FileCopyrightText = "Veilure"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
+[[annotations]] # btg placeholder
+path = ["bgm/crystal_cavern.mp3"]
+SPDX-X    FileCopyrightText = "btg placeholder"
+SPDX-X    License-Identifier = "testing right now will change later"
+
 
 [[annotations]] # Audio assets sampled from royalty-free sites like pixabay and findsounds and modified or otherwise edited
 path = [
