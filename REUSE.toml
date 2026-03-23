@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2025 Pagefault Games
+# SPDX-FileCopyrightText: 2025-2026 Pagefault Games
 #
 # SPDX-License-Identifier: AGPL-3.0-only
 
@@ -12,8 +12,9 @@ path = [
     "starter-colors.json",
     "**/*.bat",
     "**/*.ps1",
+    "biome-bgm-loop-points.json",
 ]
-SPDX-FileCopyrightText = "2024-2025 Pagefault Games"
+SPDX-FileCopyrightText = "2024-2026 Pagefault Games"
 SPDX-License-Identifier = "AGPL-3.0-only"
 
 [[annotations]] # Pagefault / Pokerogue logo should not be reused without permission as it would imply endorsement
@@ -24,7 +25,7 @@ path = [
     "images/logo_fake.png",
     "images/intro_dark.mp4", # Note: created by Spectremint
 ]
-SPDX-FileCopyrightText = "2024-2025 Pagefault Games"
+SPDX-FileCopyrightText = "2024-2026 Pagefault Games"
 SPDX-License-Identifier = "LicenseRef-NO-REUSE"
 
 

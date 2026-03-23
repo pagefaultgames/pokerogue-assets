@@ -1,0 +1,25 @@
+# SPDX-FileCopyrightText: 2026 NONE
+#
+# SPDX-License-Identifier: CC0-1.0
+
+# Editor/OS directories and files
+*.code-workspace
+.vscode/*
+.zed
+.idea
+.DS_Store
+desktop.ini
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+/.vs
+
+images/trainer/convert/*
+images/battle_anims/input/*.png
+images/pokemon/input/*.png
+images/pokemon/input/output/*
+images/pokemon/icons/input/*.png
+images/pokemon/icons/input/output/*
+images/character/*/
