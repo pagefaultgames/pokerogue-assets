@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2025 Pagefault Games
+# SPDX-FileCopyrightText: 2026 Pagefault Games
 #
 # SPDX-License-Identifier: AGPL-3.0-only
 
@@ -43,6 +43,7 @@ path = [
     "bgm/battle_hoenn_champion_g6.mp3",
     "bgm/battle_hoenn_elite.mp3",
     "bgm/battle_hoenn_gym.mp3",
+    "bgm/battle_jacinthe.mp3",
     "bgm/battle_johto_champion.mp3",
     "bgm/battle_johto_gym.mp3",
     "bgm/battle_kalos_champion.mp3",
@@ -69,6 +70,7 @@ path = [
     "bgm/battle_legendary_lake_trio.mp3",
     "bgm/battle_legendary_loyal_three.mp3",
     "bgm/battle_legendary_lugia.mp3",
+    "bgm/battle_legendary_mew.mp3",
     "bgm/battle_legendary_ogerpon.mp3",
     "bgm/battle_legendary_origin_forme.mp3",
     "bgm/battle_legendary_pecharunt.mp3",
@@ -102,6 +104,7 @@ path = [
     "bgm/battle_rival.mp3",
     "bgm/battle_rocket_boss.mp3",
     "bgm/battle_rocket_grunt.mp3",
+    "bgm/battle_rogue_mega.mp3",
     "bgm/battle_sinnoh_champion.mp3",
     "bgm/battle_sinnoh_gym.mp3",
     "bgm/battle_skull_admin.mp3",
@@ -188,12 +191,14 @@ SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # Andr06
 path = [
+    "bgm/battle_rival_3_afd.mp3",
+    "bgm/battle_trainer_afd.mp3",
     "bgm/forest.mp3",
     "bgm/fairy_cave.mp3",
     "bgm/sea.mp3",
     "bgm/slum.mp3",
     "bgm/title_afd.mp3",
-    "bgm/battle_rival_3_afd.mp3",
+    "bgm/title_afd_2.mp3",
     "bgm/winter_title.mp3",
 ]
 SPDX-FileCopyrightText = "Andr06"
