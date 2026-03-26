@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2025 Pagefault Games
+# SPDX-FileCopyrightText: 2026 Pagefault Games
 #
 # SPDX-License-Identifier: AGPL-3.0-only
 
@@ -9364,5 +9364,5 @@ path = [
 "pokemon_icons_3v.json",
 "statuses_fr.json",
 ]
-SPDX-FileCopyrightText = "2024-2025 Pagefault Games"
+SPDX-FileCopyrightText = "2024-2026 Pagefault Games"
 SPDX-License-Identifier = "AGPL-3.0-only"
