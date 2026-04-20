@@ -10,7 +10,7 @@ path = [
     "se/*.wav",           # By default, assume sourced from pokemon asset, narrow down below for specific ones that are not
     "ui/*.wav",
     "battle_anims/*.m4a",
-    "battle_anims/*.mp3",
+    "battle_anims/*.wav", # NOT ones prefixed with "PRSFX"
     # background music
     "bgm/bw/*.mp3",
     "bgm/rse/*.mp3",
