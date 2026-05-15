@@ -13,7 +13,6 @@ path = [
     "battle_anims/*.wav", # NOT ones prefixed with "PRSFX"
     # background music
     "bgm/bw/*.mp3",
-    "bgm/rse/*.mp3",
     "bgm/badlands.mp3",
     "bgm/battle_aether_boss.mp3",
     "bgm/battle_aether_grunt.mp3",
