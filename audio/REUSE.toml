@@ -10,10 +10,9 @@ path = [
     "se/*.wav",           # By default, assume sourced from pokemon asset, narrow down below for specific ones that are not
     "ui/*.wav",
     "battle_anims/*.m4a",
-    "battle_anims/*.mp3",
+    "battle_anims/*.wav", # NOT ones prefixed with "PRSFX"
     # background music
     "bgm/bw/*.mp3",
-    "bgm/rse/*.mp3",
     "bgm/badlands.mp3",
     "bgm/battle_aether_boss.mp3",
     "bgm/battle_aether_grunt.mp3",
@@ -142,7 +141,6 @@ path = [
     "bgm/factory.mp3",
     "bgm/grass.mp3",
     "bgm/heal.mp3",
-    "bgm/island.mp3",
     "bgm/meadow.mp3",
     "bgm/menu.mp3",
     "bgm/mountain.mp3",
@@ -212,6 +210,11 @@ SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 [[annotations]] # Bird_Obsession
 path = ["bgm/snowy_forest.mp3"]
 SPDX-FileCopyrightText = "Bird_Obsession"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # MattCello
+path = ["bgm/island.mp3"]
+SPDX-FileCopyrightText = "MattCello"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 
