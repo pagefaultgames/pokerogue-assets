@@ -848,7 +848,7 @@
       "0": [
         {
           "frameIndex": 0,
-          "resourceName": "Harden.mp3",
+          "resourceName": "Harden.m4a",
           "volume": 80,
           "pitch": 100,
           "eventType": "AnimTimedSoundEvent"
@@ -1707,7 +1707,7 @@
       "0": [
         {
           "frameIndex": 0,
-          "resourceName": "Harden.mp3",
+          "resourceName": "Harden.m4a",
           "volume": 80,
           "pitch": 100,
           "eventType": "AnimTimedSoundEvent"

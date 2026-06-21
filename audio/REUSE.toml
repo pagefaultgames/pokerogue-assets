@@ -10,10 +10,9 @@ path = [
     "se/*.wav",           # By default, assume sourced from pokemon asset, narrow down below for specific ones that are not
     "ui/*.wav",
     "battle_anims/*.m4a",
-    "battle_anims/*.mp3",
+    "battle_anims/*.wav", # NOT ones prefixed with "PRSFX"
     # background music
     "bgm/bw/*.mp3",
-    "bgm/rse/*.mp3",
     "bgm/badlands.mp3",
     "bgm/battle_aether_boss.mp3",
     "bgm/battle_aether_grunt.mp3",
@@ -119,7 +118,6 @@ path = [
     "bgm/battle_wild.mp3",
     "bgm/battle_wild_strong.mp3",
     "bgm/beach.mp3",
-    "bgm/cave.mp3",
     "bgm/construction_site.mp3",
     "bgm/dojo.mp3",
     "bgm/encounter_ace_trainer.mp3",
@@ -142,7 +140,6 @@ path = [
     "bgm/factory.mp3",
     "bgm/grass.mp3",
     "bgm/heal.mp3",
-    "bgm/island.mp3",
     "bgm/meadow.mp3",
     "bgm/menu.mp3",
     "bgm/mountain.mp3",
@@ -151,7 +148,6 @@ path = [
     "bgm/mystery_encounter_gen_6_gts.mp3",
     "bgm/mystery_encounter_weird_dream.mp3",
     "bgm/swamp.mp3",
-    "bgm/tall_grass.mp3",
     "bgm/temple.mp3",
     "bgm/town.mp3",
     # end background music
@@ -210,8 +206,17 @@ SPDX-FileCopyrightText = "Leavannite"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # Bird_Obsession
-path = ["bgm/snowy_forest.mp3"]
+path = [
+    "bgm/cave.mp3",
+    "bgm/snowy_forest.mp3",
+    "bgm/tall_grass.mp3",
+]
 SPDX-FileCopyrightText = "Bird_Obsession"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # MattCello
+path = ["bgm/island.mp3"]
+SPDX-FileCopyrightText = "MattCello"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 
