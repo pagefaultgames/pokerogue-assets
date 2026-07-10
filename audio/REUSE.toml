@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2025 Pagefault Games
+# SPDX-FileCopyrightText: 2026 Pagefault Games
 #
 # SPDX-License-Identifier: AGPL-3.0-only
 
@@ -10,10 +10,9 @@ path = [
     "se/*.wav",           # By default, assume sourced from pokemon asset, narrow down below for specific ones that are not
     "ui/*.wav",
     "battle_anims/*.m4a",
-    "battle_anims/*.mp3",
+    "battle_anims/*.wav", # NOT ones prefixed with "PRSFX"
     # background music
     "bgm/bw/*.mp3",
-    "bgm/rse/*.mp3",
     "bgm/badlands.mp3",
     "bgm/battle_aether_boss.mp3",
     "bgm/battle_aether_grunt.mp3",
@@ -43,6 +42,7 @@ path = [
     "bgm/battle_hoenn_champion_g6.mp3",
     "bgm/battle_hoenn_elite.mp3",
     "bgm/battle_hoenn_gym.mp3",
+    "bgm/battle_jacinthe.mp3",
     "bgm/battle_johto_champion.mp3",
     "bgm/battle_johto_gym.mp3",
     "bgm/battle_kalos_champion.mp3",
@@ -69,6 +69,7 @@ path = [
     "bgm/battle_legendary_lake_trio.mp3",
     "bgm/battle_legendary_loyal_three.mp3",
     "bgm/battle_legendary_lugia.mp3",
+    "bgm/battle_legendary_mew.mp3",
     "bgm/battle_legendary_ogerpon.mp3",
     "bgm/battle_legendary_origin_forme.mp3",
     "bgm/battle_legendary_pecharunt.mp3",
@@ -102,6 +103,7 @@ path = [
     "bgm/battle_rival.mp3",
     "bgm/battle_rocket_boss.mp3",
     "bgm/battle_rocket_grunt.mp3",
+    "bgm/battle_rogue_mega.mp3",
     "bgm/battle_sinnoh_champion.mp3",
     "bgm/battle_sinnoh_gym.mp3",
     "bgm/battle_skull_admin.mp3",
@@ -116,7 +118,6 @@ path = [
     "bgm/battle_wild.mp3",
     "bgm/battle_wild_strong.mp3",
     "bgm/beach.mp3",
-    "bgm/cave.mp3",
     "bgm/construction_site.mp3",
     "bgm/dojo.mp3",
     "bgm/encounter_ace_trainer.mp3",
@@ -139,7 +140,6 @@ path = [
     "bgm/factory.mp3",
     "bgm/grass.mp3",
     "bgm/heal.mp3",
-    "bgm/island.mp3",
     "bgm/meadow.mp3",
     "bgm/menu.mp3",
     "bgm/mountain.mp3",
@@ -148,7 +148,6 @@ path = [
     "bgm/mystery_encounter_gen_6_gts.mp3",
     "bgm/mystery_encounter_weird_dream.mp3",
     "bgm/swamp.mp3",
-    "bgm/tall_grass.mp3",
     "bgm/temple.mp3",
     "bgm/town.mp3",
     # end background music
@@ -193,12 +192,14 @@ SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # Andr06
 path = [
+    "bgm/battle_rival_3_afd.mp3",
+    "bgm/battle_trainer_afd.mp3",
     "bgm/forest.mp3",
     "bgm/fairy_cave.mp3",
     "bgm/sea.mp3",
     "bgm/slum.mp3",
     "bgm/title_afd.mp3",
-    "bgm/battle_rival_3_afd.mp3",
+    "bgm/title_afd_2.mp3",
     "bgm/winter_title.mp3",
 ]
 SPDX-FileCopyrightText = "Andr06"
@@ -210,20 +211,23 @@ SPDX-FileCopyrightText = "Leavannite"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # Bird_Obsession
-path = ["bgm/snowy_forest.mp3"]
+path = [
+    "bgm/cave.mp3",
+    "bgm/snowy_forest.mp3",
+    "bgm/tall_grass.mp3",
+]
 SPDX-FileCopyrightText = "Bird_Obsession"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # MattCello
+path = ["bgm/island.mp3"]
+SPDX-FileCopyrightText = "MattCello"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # Veilure
 path = ["bgm/underground_well.mp3"]
 SPDX-FileCopyrightText = "Veilure"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
-
-[[annotations]] # btg placeholder
-path = ["bgm/crystal_cavern.mp3"]
-SPDX-X    FileCopyrightText = "btg placeholder"
-SPDX-X    License-Identifier = "testing right now will change later"
-
 
 [[annotations]] # Audio assets sampled from royalty-free sites like pixabay and findsounds and modified or otherwise edited
 path = [

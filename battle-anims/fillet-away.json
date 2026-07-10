@@ -732,7 +732,7 @@
     "0": [
       {
         "frameIndex": 0,
-        "resourceName": "Lucky Chant.mp3",
+        "resourceName": "Lucky Chant.m4a",
         "volume": 80,
         "pitch": 100,
         "eventType": "AnimTimedSoundEvent"

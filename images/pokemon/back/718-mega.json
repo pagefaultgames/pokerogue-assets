@@ -1,0 +1,20 @@
+{ "frames": [
+   {
+    "filename": "0001.png",
+    "frame": { "x": 0, "y": 0, "w": 97, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 97, "h": 146 },
+    "sourceSize": { "w": 97, "h": 146 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.14-beta1-x64",
+  "image": "718-mega.png",
+  "format": "RGBA8888",
+  "size": { "w": 97, "h": 146 },
+  "scale": "1"
+ }
+}

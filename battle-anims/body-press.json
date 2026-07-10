@@ -439,7 +439,7 @@
       "6": [
         {
           "frameIndex": 6,
-          "resourceName": "Slam.mp3",
+          "resourceName": "Slam.m4a",
           "volume": 80,
           "pitch": 100,
           "eventType": "AnimTimedSoundEvent"
@@ -890,7 +890,7 @@
       "6": [
         {
           "frameIndex": 6,
-          "resourceName": "Slam.mp3",
+          "resourceName": "Slam.m4a",
           "volume": 80,
           "pitch": 100,
           "eventType": "AnimTimedSoundEvent"

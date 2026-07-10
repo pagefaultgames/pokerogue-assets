@@ -1023,7 +1023,7 @@
     "10": [
       {
         "frameIndex": 10,
-        "resourceName": "Vice Grip.mp3",
+        "resourceName": "Vice Grip.m4a",
         "volume": 80,
         "pitch": 100,
         "eventType": "AnimTimedSoundEvent"

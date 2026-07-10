@@ -1755,7 +1755,7 @@
     "0": [
       {
         "frameIndex": 0,
-        "resourceName": "PRSFX- Autotomize1.mp3",
+        "resourceName": "PRSFX- Autotomize1.m4a",
         "volume": 100,
         "pitch": 100,
         "eventType": "AnimTimedSoundEvent"
