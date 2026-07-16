@@ -78,6 +78,24 @@ path = [
 SPDX-FileCopyrightText = "2026 Red"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
+[[annotations]] # Vari
+path = [
+"arenas/rocky_coast_a",
+"arenas/rocky_coast_b",
+"arenas/rocky_coast_b_1",
+"arenas/rocky_coast_b_2",
+"arenas/rocky_coast_b_3",
+"arenas/rocky_coast_bg",
+"arenas/well_a",
+"arenas/well_b",
+"arenas/well_b_1",
+"arenas/well_b_2",
+"arenas/well_b_3",
+"arenas/well_bg"
+]
+SPDX-FileCopyrightText = "2026 Vari"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
 [[annotations]] # JSONs created via our own tooling (colormaps for variants must not be listed here!)
 # list of json files that were generated from tooling and describe the animation
 # for a png file found via the following shell command:

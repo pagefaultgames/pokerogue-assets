@@ -181,7 +181,12 @@ SPDX-FileCopyrightText = "Firel"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # LMZ
-path = ["bgm/jungle.mp3", "bgm/lake.mp3", "bgm/ruins.mp3"]
+path = [
+    "bgm/jungle.mp3",
+    "bgm/lake.mp3",
+    "bgm/ruins.mp3",
+    "bgm/rocky_coast.mp3"
+]
 SPDX-FileCopyrightText = "Lmz"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
@@ -219,6 +224,10 @@ path = ["bgm/island.mp3"]
 SPDX-FileCopyrightText = "MattCello"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
+[[annotations]] # Veilure
+path = ["bgm/underground_well.mp3"]
+SPDX-FileCopyrightText = "Veilure"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # Audio assets sampled from royalty-free sites like pixabay and findsounds and modified or otherwise edited
 path = [
