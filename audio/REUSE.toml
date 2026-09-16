@@ -147,7 +147,6 @@ path = [
     "bgm/mystery_encounter_gen_5_gts.mp3",
     "bgm/mystery_encounter_gen_6_gts.mp3",
     "bgm/mystery_encounter_weird_dream.mp3",
-    "bgm/swamp.mp3",
     "bgm/temple.mp3",
     "bgm/town.mp3",
     # end background music
@@ -227,6 +226,11 @@ SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 [[annotations]] # Veilure
 path = ["bgm/underground_well.mp3"]
 SPDX-FileCopyrightText = "Veilure"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # Faces in the Clouds
+path = ["bgm/swamp.mp3"]
+SPDX-FileCopyrightText = "Faces in the Clouds"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # Audio assets sampled from royalty-free sites like pixabay and findsounds and modified or otherwise edited
