@@ -118,7 +118,6 @@ path = [
     "bgm/battle_wild.mp3",
     "bgm/battle_wild_strong.mp3",
     "bgm/beach.mp3",
-    "bgm/construction_site.mp3",
     "bgm/dojo.mp3",
     "bgm/encounter_ace_trainer.mp3",
     "bgm/encounter_backpacker.mp3",
@@ -219,7 +218,10 @@ SPDX-FileCopyrightText = "Bird_Obsession"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # MattCello
-path = ["bgm/island.mp3"]
+path = [
+    "bgm/construction_site.mp3",
+    "bgm/island.mp3",
+]
 SPDX-FileCopyrightText = "MattCello"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
