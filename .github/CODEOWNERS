@@ -1,6 +1,6 @@
 # Art Team
-/**/*.png @pagefaultgames/art-team
-/**/*.json @pagefaultgames/art-team
+*.png @pagefaultgames/art-team
+*.json @pagefaultgames/art-team
 /images @pagefaultgames/art-team
 /battle-anims @pagefaultgames/art-team
 
@@ -9,3 +9,23 @@
 *.wav @pagefaultgames/composer-team
 *.ogg @pagefaultgames/composer-team
 /audio @pagefaultgames/composer-team
+biome-bgm-loop-points.json @pagefaultgames/composer-team
+
+# Code
+.editorconfig @pagefaultgames/junior-dev-team
+.gitignore @pagefaultgames/junior-dev-team
+.gitkeep @pagefaultgames/junior-dev-team
+*.ts @pagefaultgames/junior-dev-team
+*.js @pagefaultgames/junior-dev-team
+biome.jsonc @pagefaultgames/junior-dev-team
+tsconfig.json @pagefaultgames/junior-dev-team
+/test @pagefaultgames/junior-dev-team
+
+# GitHub/Project
+/.github @pagefaultgames/senior-dev-team
+lefthook.yml @pagefaultgames/senior-dev-team
+package.json @pagefaultgames/senior-dev-team
+pnpm-lock.yaml @pagefaultgames/senior-dev-team
+pnpm-workspace.yaml @pagefaultgames/senior-dev-team
+/LICENSES @pagefaultgames/senior-dev-team
+REUSE.toml @pagefaultgames/senior-dev-team

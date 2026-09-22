@@ -1,0 +1,36 @@
+{
+  "name": "pokerogue-assets",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "biome": "biome check --write --changed --no-errors-on-unmatched --diagnostic-level=error",
+    "biome:all": "biome check --write --no-errors-on-unmatched --diagnostic-level=error",
+    "biome:ci": "biome ci --diagnostic-level=error --reporter=github --reporter=default --no-errors-on-unmatched",
+    "biome:staged": "biome check --write --staged --no-errors-on-unmatched --diagnostic-level=error",
+    "postinstall": "lefthook install",
+    "test": "vitest run",
+    "test:silent": "vitest run --silent='passed-only'",
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.14",
+    "@types/node": "^24.13.6",
+    "lefthook": "^2.1.14",
+    "typescript": "^6.0.3",
+    "vitest": "^5.0.1"
+  },
+  "packageManager": "pnpm@12.5.1",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.5.1",
+      "onFail": "download"
+    },
+    "runtime": {
+      "name": "node",
+      "version": ">=24.9.0",
+      "onFail": "warn"
+    }
+  }
+}
