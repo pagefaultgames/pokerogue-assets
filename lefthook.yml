@@ -1,0 +1,11 @@
+# SPDX-FileCopyrightText: 2026 Pagefault Games
+#
+# SPDX-License-Identifier: AGPL-3.0-only
+
+pre-commit:
+  commands:
+    biome-lint:
+      # Disable colors as certain IDEs (such as VSCode) don't support it in the output pane.
+      # Summary mode looks decent in plain ASCII anyhow
+      run: pnpm biome:staged --colors=off --reporter=summary
+      stage_fixed: true
