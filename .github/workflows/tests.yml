@@ -1,0 +1,66 @@
+name: Tests
+
+on:
+  push:
+    branches:
+      - main
+      - beta
+  pull_request:
+    branches:
+      - main
+      - beta
+  merge_group:
+    types: [checks_requested]
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions: {}
+
+jobs:
+  check-path-change-filter:
+    name: Tests path filter
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: read
+    outputs:
+      all: ${{ steps.filter.outputs.all }}
+    steps:
+      - name: Checkout GitHub repository # needed for the path filter to work
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # 7.0.0
+        with:
+          sparse-checkout: README.md
+          sparse-checkout-cone-mode: false
+
+      - uses: dorny/paths-filter@ceb8a2b8f2d89434be7ff52d3de7ec3738c5cc9d # 4.0.3
+        id: filter
+        with:
+          filters: |
+            - images/**
+
+  run-tests:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    needs: check-path-change-filter
+    if: needs.check-path-change-filter.outputs.all == 'true'
+    steps:
+    - name: Check out Git repository
+      uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # 7.0.0
+      with:
+        sparse-checkout: |
+          - test
+          - images
+
+    - name: Install pnpm, Node.js and dependencies
+      uses: pnpm/setup@703c52620218391530e48b9e8870d5c0082e1b9b # 2.1.0
+      with:
+        runtime: node@24.9
+        install: true
+        require-lockfile: true
+        cache: true
+
+    - name: Run tests
+      run: pnpm test:silent
