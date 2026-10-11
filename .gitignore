@@ -23,3 +23,4 @@ images/pokemon/input/output/*
 images/pokemon/icons/input/*.png
 images/pokemon/icons/input/output/*
 images/character/*/
+/node_modules
