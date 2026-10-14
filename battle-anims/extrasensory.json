@@ -2283,6 +2283,15 @@
     "0": [
       {
         "frameIndex": 0,
+        "resourceName": "PRAS- Black BG",
+        "bgX": 0,
+        "bgY": 0,
+        "opacity": 0,
+        "duration": 5,
+        "eventType": "AnimTimedAddBgEvent"
+      },
+      {
+        "frameIndex": 0,
         "resourceName": "",
         "bgX": 0,
         "bgY": 0,
@@ -2309,17 +2318,6 @@
         "opacity": 0,
         "duration": 5,
         "eventType": "AnimTimedUpdateBgEvent"
-      }
-    ],
-    "39": [
-      {
-        "frameIndex": 39,
-        "resourceName": "PRAS- Extrasensory BG",
-        "bgX": 0,
-        "bgY": 0,
-        "opacity": 0,
-        "duration": 5,
-        "eventType": "AnimTimedAddBgEvent"
       }
     ]
   },
