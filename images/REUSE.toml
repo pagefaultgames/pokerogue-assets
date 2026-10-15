@@ -61,12 +61,17 @@ SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 [[annotations]] # Dops
 path = [
 "items/boss_mini_black_hole.png",
-"items/diffusion_lens",
-"items/golden_net",
+"items/diffusion_lens.png",
+"items/golden_net.png",
 "items/mini_black_hole.png",
-"items/multi_lens",
+"items/multi_lens.png",
+"items/flip_stats_ribbon.png",
+"items/fresh_start_ribbon.png",
+"items/hardcore_ribbon.png",
+"items/inverse_ribbon.png",
+"items/ribbon_gen2.png"
 ]
-SPDX-FileCopyrightText = "2025 Dops"
+SPDX-FileCopyrightText = "2025-2026 Dops"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # Red
@@ -76,6 +81,13 @@ path = [
 "trainer/mable.png",
 ]
 SPDX-FileCopyrightText = "2026 Red"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+[[annotations]] # NEcrowmancy
+path = [
+"items/mystic_mint.png"
+]
+SPDX-FileCopyrightText = "2026 Necrowmancy"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # Vari
