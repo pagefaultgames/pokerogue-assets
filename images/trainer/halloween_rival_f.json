@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "rival_f_halloween.png",
+			"image": "halloween_rival_f.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 70,
