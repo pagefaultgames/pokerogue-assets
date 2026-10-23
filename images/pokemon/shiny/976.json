@@ -1,6 +1,6 @@
 { "frames": [
    {
-    "filename": "0001.png",
+    "filename": "0001.json",
     "frame": { "x": 0, "y": 0, "w": 71, "h": 53 },
     "rotated": false,
     "trimmed": false,
@@ -13,7 +13,7 @@
   "app": "https://www.aseprite.org/",
   "version": "1.3.14-beta1-x64",
   "image": "976.png",
-  "format": "RGBA8888",
+  "format": "I8",
   "size": { "w": 71, "h": 53 },
   "scale": "1"
  }

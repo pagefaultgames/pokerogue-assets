@@ -5038,7 +5038,7 @@
 					},
 					"spriteSourceSize": {
 						"x": 10,
-						"y": 5,
+						"y": 7,
 						"w": 21,
 						"h": 21
 					},
@@ -5101,7 +5101,7 @@
 					},
 					"spriteSourceSize": {
 						"x": 10,
-						"y": 5,
+						"y": 7,
 						"w": 21,
 						"h": 21
 					},
@@ -6651,6 +6651,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:43b269139f35eff9c15fd7a83b8e5f79:acf582a0354fbedf9add5333de3460dd:2e7c5873ead8fd8fce82a0b3fcc86b42$"
+		"smartupdate": "$TexturePacker:SmartUpdate:301041dfcc4a5f35df4808d017e5765e:5028add70d08aca09a3c8d8891846831:2e7c5873ead8fd8fce82a0b3fcc86b42$"
 	}
 }

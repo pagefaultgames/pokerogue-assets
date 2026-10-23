@@ -50,10 +50,8 @@ Include any additional information
 -->
 
 ## Checklist
-- [ ] **I'm using `beta` as my base branch**
-- [ ] I have provided **screenshots** proving my additions are properly working (if necessary).
-- [ ] Have I provided a clear explanation of the changes?
-- [ ] I have attached a link to a main repo PR or properly explained my changes as applicable.
-- [ ] Have I provided screenshots/videos of the changes (if applicable)?
-  - [ ] Have I made sure that any UI change works for both UI themes (default and legacy)?
-- [ ] I have uncommented the appropriate warning message if necessary.
+- [ ] **I'm using `beta` as my base branch**.
+- [ ] I have attached a link to a main repo PR and/or properly explained the changes.
+- [ ] I have provided screenshots/videos of the changes (if applicable).
+  - [ ] I have made sure that any UI change works for both UI themes (default and legacy).
+- [ ] I have uncommented the appropriate warning message(s) if necessary.

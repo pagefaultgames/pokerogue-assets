@@ -1,6 +1,6 @@
 { "frames": [
    {
-    "filename": "0001.png",
+    "filename": "0001.json",
     "frame": { "x": 0, "y": 0, "w": 69, "h": 51 },
     "rotated": false,
     "trimmed": false,

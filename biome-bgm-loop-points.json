@@ -3,7 +3,7 @@
   "badlands": 17.79,
   "beach": 3.462,
   "cave": 0.915,
-  "construction_site": 1.222,
+  "construction_site": 7.16,
   "desert": 9.02,
   "dojo": 6.205,
   "end": 17.153,
@@ -28,10 +28,15 @@
   "slum": 0,
   "snowy_forest": 3.814,
   "space": 20.036,
-  "swamp": 4.461,
+  "swamp": 0,
   "tall_grass": 4.796,
   "temple": 2.547,
   "town": 7.288,
   "volcano": 17.637,
-  "wasteland": 6.024
+  "wasteland": 6.024,
+  "underground_well": 0,
+  "rocky_coast": 0,
+  "summit": 0,
+  "savannah": 0,
+  "crystal_cavern": 0
 }
