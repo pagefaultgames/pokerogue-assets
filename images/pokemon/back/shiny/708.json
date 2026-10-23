@@ -1,6 +1,6 @@
 { "frames": [
    {
-    "filename": "0001.json",
+    "filename": "0001.png",
     "frame": { "x": 42, "y": 42, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -9,7 +9,7 @@
     "duration": 100
    },
    {
-    "filename": "0002.json",
+    "filename": "0002.png",
     "frame": { "x": 129, "y": 41, "w": 44, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -18,7 +18,7 @@
     "duration": 100
    },
    {
-    "filename": "0003.json",
+    "filename": "0003.png",
     "frame": { "x": 129, "y": 81, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -27,7 +27,7 @@
     "duration": 100
    },
    {
-    "filename": "0004.json",
+    "filename": "0004.png",
     "frame": { "x": 170, "y": 201, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -36,7 +36,7 @@
     "duration": 100
    },
    {
-    "filename": "0005.json",
+    "filename": "0005.png",
     "frame": { "x": 0, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -45,7 +45,7 @@
     "duration": 100
    },
    {
-    "filename": "0006.json",
+    "filename": "0006.png",
     "frame": { "x": 43, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -54,7 +54,7 @@
     "duration": 100
    },
    {
-    "filename": "0007.json",
+    "filename": "0007.png",
     "frame": { "x": 86, "y": 122, "w": 42, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -63,7 +63,7 @@
     "duration": 100
    },
    {
-    "filename": "0008.json",
+    "filename": "0008.png",
     "frame": { "x": 213, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -72,7 +72,7 @@
     "duration": 100
    },
    {
-    "filename": "0009.json",
+    "filename": "0009.png",
     "frame": { "x": 85, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -81,7 +81,7 @@
     "duration": 100
    },
    {
-    "filename": "0010.json",
+    "filename": "0010.png",
     "frame": { "x": 258, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -90,7 +90,7 @@
     "duration": 100
    },
    {
-    "filename": "0011.json",
+    "filename": "0011.png",
     "frame": { "x": 42, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -99,7 +99,7 @@
     "duration": 100
    },
    {
-    "filename": "0012.json",
+    "filename": "0012.png",
     "frame": { "x": 128, "y": 121, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -108,7 +108,7 @@
     "duration": 100
    },
    {
-    "filename": "0013.json",
+    "filename": "0013.png",
     "frame": { "x": 171, "y": 121, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -117,7 +117,7 @@
     "duration": 100
    },
    {
-    "filename": "0014.json",
+    "filename": "0014.png",
     "frame": { "x": 86, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -126,7 +126,7 @@
     "duration": 100
    },
    {
-    "filename": "0015.json",
+    "filename": "0015.png",
     "frame": { "x": 129, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -135,7 +135,7 @@
     "duration": 100
    },
    {
-    "filename": "0016.json",
+    "filename": "0016.png",
     "frame": { "x": 261, "y": 41, "w": 42, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -144,7 +144,7 @@
     "duration": 100
    },
    {
-    "filename": "0017.json",
+    "filename": "0017.png",
     "frame": { "x": 0, "y": 42, "w": 42, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -153,7 +153,7 @@
     "duration": 100
    },
    {
-    "filename": "0018.json",
+    "filename": "0018.png",
     "frame": { "x": 86, "y": 201, "w": 42, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -162,7 +162,7 @@
     "duration": 100
    },
    {
-    "filename": "0019.json",
+    "filename": "0019.png",
     "frame": { "x": 0, "y": 0, "w": 43, "h": 42 },
     "rotated": false,
     "trimmed": true,
@@ -171,7 +171,7 @@
     "duration": 100
    },
    {
-    "filename": "0020.json",
+    "filename": "0020.png",
     "frame": { "x": 43, "y": 0, "w": 43, "h": 42 },
     "rotated": false,
     "trimmed": true,
@@ -180,7 +180,7 @@
     "duration": 100
    },
    {
-    "filename": "0021.json",
+    "filename": "0021.png",
     "frame": { "x": 258, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -189,7 +189,7 @@
     "duration": 100
    },
    {
-    "filename": "0022.json",
+    "filename": "0022.png",
     "frame": { "x": 86, "y": 41, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -198,7 +198,7 @@
     "duration": 100
    },
    {
-    "filename": "0023.json",
+    "filename": "0023.png",
     "frame": { "x": 172, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -207,7 +207,7 @@
     "duration": 100
    },
    {
-    "filename": "0024.json",
+    "filename": "0024.png",
     "frame": { "x": 215, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -216,7 +216,7 @@
     "duration": 100
    },
    {
-    "filename": "0025.json",
+    "filename": "0025.png",
     "frame": { "x": 0, "y": 122, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -225,7 +225,7 @@
     "duration": 100
    },
    {
-    "filename": "0026.json",
+    "filename": "0026.png",
     "frame": { "x": 42, "y": 42, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -234,7 +234,7 @@
     "duration": 100
    },
    {
-    "filename": "0027.json",
+    "filename": "0027.png",
     "frame": { "x": 129, "y": 41, "w": 44, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -243,7 +243,7 @@
     "duration": 100
    },
    {
-    "filename": "0028.json",
+    "filename": "0028.png",
     "frame": { "x": 129, "y": 81, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -252,7 +252,7 @@
     "duration": 100
    },
    {
-    "filename": "0029.json",
+    "filename": "0029.png",
     "frame": { "x": 170, "y": 201, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -261,7 +261,7 @@
     "duration": 100
    },
    {
-    "filename": "0030.json",
+    "filename": "0030.png",
     "frame": { "x": 0, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -270,7 +270,7 @@
     "duration": 100
    },
    {
-    "filename": "0031.json",
+    "filename": "0031.png",
     "frame": { "x": 43, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -279,7 +279,7 @@
     "duration": 100
    },
    {
-    "filename": "0032.json",
+    "filename": "0032.png",
     "frame": { "x": 86, "y": 122, "w": 42, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -288,7 +288,7 @@
     "duration": 100
    },
    {
-    "filename": "0033.json",
+    "filename": "0033.png",
     "frame": { "x": 213, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -297,7 +297,7 @@
     "duration": 100
    },
    {
-    "filename": "0034.json",
+    "filename": "0034.png",
     "frame": { "x": 85, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -306,7 +306,7 @@
     "duration": 100
    },
    {
-    "filename": "0035.json",
+    "filename": "0035.png",
     "frame": { "x": 258, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -315,7 +315,7 @@
     "duration": 100
    },
    {
-    "filename": "0036.json",
+    "filename": "0036.png",
     "frame": { "x": 42, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -324,7 +324,7 @@
     "duration": 100
    },
    {
-    "filename": "0037.json",
+    "filename": "0037.png",
     "frame": { "x": 128, "y": 121, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -333,7 +333,7 @@
     "duration": 100
    },
    {
-    "filename": "0038.json",
+    "filename": "0038.png",
     "frame": { "x": 171, "y": 121, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -342,7 +342,7 @@
     "duration": 100
    },
    {
-    "filename": "0039.json",
+    "filename": "0039.png",
     "frame": { "x": 86, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -351,7 +351,7 @@
     "duration": 100
    },
    {
-    "filename": "0040.json",
+    "filename": "0040.png",
     "frame": { "x": 129, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -360,7 +360,7 @@
     "duration": 100
    },
    {
-    "filename": "0041.json",
+    "filename": "0041.png",
     "frame": { "x": 261, "y": 41, "w": 42, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -369,7 +369,7 @@
     "duration": 100
    },
    {
-    "filename": "0042.json",
+    "filename": "0042.png",
     "frame": { "x": 0, "y": 42, "w": 42, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -378,7 +378,7 @@
     "duration": 100
    },
    {
-    "filename": "0043.json",
+    "filename": "0043.png",
     "frame": { "x": 86, "y": 201, "w": 42, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -387,7 +387,7 @@
     "duration": 100
    },
    {
-    "filename": "0044.json",
+    "filename": "0044.png",
     "frame": { "x": 0, "y": 0, "w": 43, "h": 42 },
     "rotated": false,
     "trimmed": true,
@@ -396,7 +396,7 @@
     "duration": 100
    },
    {
-    "filename": "0045.json",
+    "filename": "0045.png",
     "frame": { "x": 43, "y": 0, "w": 43, "h": 42 },
     "rotated": false,
     "trimmed": true,
@@ -405,7 +405,7 @@
     "duration": 100
    },
    {
-    "filename": "0046.json",
+    "filename": "0046.png",
     "frame": { "x": 258, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -414,7 +414,7 @@
     "duration": 100
    },
    {
-    "filename": "0047.json",
+    "filename": "0047.png",
     "frame": { "x": 86, "y": 41, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -423,7 +423,7 @@
     "duration": 100
    },
    {
-    "filename": "0048.json",
+    "filename": "0048.png",
     "frame": { "x": 172, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -432,7 +432,7 @@
     "duration": 100
    },
    {
-    "filename": "0049.json",
+    "filename": "0049.png",
     "frame": { "x": 215, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -441,7 +441,7 @@
     "duration": 100
    },
    {
-    "filename": "0050.json",
+    "filename": "0050.png",
     "frame": { "x": 0, "y": 122, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -450,7 +450,7 @@
     "duration": 100
    },
    {
-    "filename": "0051.json",
+    "filename": "0051.png",
     "frame": { "x": 42, "y": 42, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -459,7 +459,7 @@
     "duration": 100
    },
    {
-    "filename": "0052.json",
+    "filename": "0052.png",
     "frame": { "x": 129, "y": 41, "w": 44, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -468,7 +468,7 @@
     "duration": 100
    },
    {
-    "filename": "0053.json",
+    "filename": "0053.png",
     "frame": { "x": 129, "y": 81, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -477,7 +477,7 @@
     "duration": 100
    },
    {
-    "filename": "0054.json",
+    "filename": "0054.png",
     "frame": { "x": 170, "y": 201, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -486,7 +486,7 @@
     "duration": 100
    },
    {
-    "filename": "0055.json",
+    "filename": "0055.png",
     "frame": { "x": 0, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -495,7 +495,7 @@
     "duration": 100
    },
    {
-    "filename": "0056.json",
+    "filename": "0056.png",
     "frame": { "x": 43, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -504,7 +504,7 @@
     "duration": 100
    },
    {
-    "filename": "0057.json",
+    "filename": "0057.png",
     "frame": { "x": 86, "y": 122, "w": 42, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -513,7 +513,7 @@
     "duration": 100
    },
    {
-    "filename": "0058.json",
+    "filename": "0058.png",
     "frame": { "x": 213, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -522,7 +522,7 @@
     "duration": 100
    },
    {
-    "filename": "0059.json",
+    "filename": "0059.png",
     "frame": { "x": 85, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -531,7 +531,7 @@
     "duration": 100
    },
    {
-    "filename": "0060.json",
+    "filename": "0060.png",
     "frame": { "x": 258, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -540,7 +540,7 @@
     "duration": 100
    },
    {
-    "filename": "0061.json",
+    "filename": "0061.png",
     "frame": { "x": 42, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -549,7 +549,7 @@
     "duration": 100
    },
    {
-    "filename": "0062.json",
+    "filename": "0062.png",
     "frame": { "x": 128, "y": 121, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -558,7 +558,7 @@
     "duration": 100
    },
    {
-    "filename": "0063.json",
+    "filename": "0063.png",
     "frame": { "x": 171, "y": 121, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -567,7 +567,7 @@
     "duration": 100
    },
    {
-    "filename": "0064.json",
+    "filename": "0064.png",
     "frame": { "x": 86, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -576,7 +576,7 @@
     "duration": 100
    },
    {
-    "filename": "0065.json",
+    "filename": "0065.png",
     "frame": { "x": 129, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -585,7 +585,7 @@
     "duration": 100
    },
    {
-    "filename": "0066.json",
+    "filename": "0066.png",
     "frame": { "x": 261, "y": 41, "w": 42, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -594,7 +594,7 @@
     "duration": 100
    },
    {
-    "filename": "0067.json",
+    "filename": "0067.png",
     "frame": { "x": 0, "y": 42, "w": 42, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -603,7 +603,7 @@
     "duration": 100
    },
    {
-    "filename": "0068.json",
+    "filename": "0068.png",
     "frame": { "x": 86, "y": 201, "w": 42, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -612,7 +612,7 @@
     "duration": 100
    },
    {
-    "filename": "0069.json",
+    "filename": "0069.png",
     "frame": { "x": 0, "y": 0, "w": 43, "h": 42 },
     "rotated": false,
     "trimmed": true,
@@ -621,7 +621,7 @@
     "duration": 100
    },
    {
-    "filename": "0070.json",
+    "filename": "0070.png",
     "frame": { "x": 43, "y": 0, "w": 43, "h": 42 },
     "rotated": false,
     "trimmed": true,
@@ -630,7 +630,7 @@
     "duration": 100
    },
    {
-    "filename": "0071.json",
+    "filename": "0071.png",
     "frame": { "x": 258, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -639,7 +639,7 @@
     "duration": 100
    },
    {
-    "filename": "0072.json",
+    "filename": "0072.png",
     "frame": { "x": 86, "y": 41, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -648,7 +648,7 @@
     "duration": 100
    },
    {
-    "filename": "0073.json",
+    "filename": "0073.png",
     "frame": { "x": 172, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -657,7 +657,7 @@
     "duration": 100
    },
    {
-    "filename": "0074.json",
+    "filename": "0074.png",
     "frame": { "x": 215, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -666,7 +666,7 @@
     "duration": 100
    },
    {
-    "filename": "0075.json",
+    "filename": "0075.png",
     "frame": { "x": 0, "y": 122, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -675,7 +675,7 @@
     "duration": 100
    },
    {
-    "filename": "0076.json",
+    "filename": "0076.png",
     "frame": { "x": 42, "y": 42, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -684,7 +684,7 @@
     "duration": 100
    },
    {
-    "filename": "0077.json",
+    "filename": "0077.png",
     "frame": { "x": 129, "y": 41, "w": 44, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -693,7 +693,7 @@
     "duration": 100
    },
    {
-    "filename": "0078.json",
+    "filename": "0078.png",
     "frame": { "x": 129, "y": 81, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -702,7 +702,7 @@
     "duration": 100
    },
    {
-    "filename": "0079.json",
+    "filename": "0079.png",
     "frame": { "x": 170, "y": 201, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -711,7 +711,7 @@
     "duration": 100
    },
    {
-    "filename": "0080.json",
+    "filename": "0080.png",
     "frame": { "x": 0, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -720,7 +720,7 @@
     "duration": 100
    },
    {
-    "filename": "0081.json",
+    "filename": "0081.png",
     "frame": { "x": 43, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -729,7 +729,7 @@
     "duration": 100
    },
    {
-    "filename": "0082.json",
+    "filename": "0082.png",
     "frame": { "x": 86, "y": 122, "w": 42, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -738,7 +738,7 @@
     "duration": 100
    },
    {
-    "filename": "0083.json",
+    "filename": "0083.png",
     "frame": { "x": 213, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -747,7 +747,7 @@
     "duration": 100
    },
    {
-    "filename": "0084.json",
+    "filename": "0084.png",
     "frame": { "x": 85, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -756,7 +756,7 @@
     "duration": 100
    },
    {
-    "filename": "0085.json",
+    "filename": "0085.png",
     "frame": { "x": 258, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -765,7 +765,7 @@
     "duration": 100
    },
    {
-    "filename": "0086.json",
+    "filename": "0086.png",
     "frame": { "x": 42, "y": 82, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -774,7 +774,7 @@
     "duration": 100
    },
    {
-    "filename": "0087.json",
+    "filename": "0087.png",
     "frame": { "x": 128, "y": 121, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -783,7 +783,7 @@
     "duration": 100
    },
    {
-    "filename": "0088.json",
+    "filename": "0088.png",
     "frame": { "x": 171, "y": 121, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -792,7 +792,7 @@
     "duration": 100
    },
    {
-    "filename": "0089.json",
+    "filename": "0089.png",
     "frame": { "x": 86, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -801,7 +801,7 @@
     "duration": 100
    },
    {
-    "filename": "0090.json",
+    "filename": "0090.png",
     "frame": { "x": 129, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -810,7 +810,7 @@
     "duration": 100
    },
    {
-    "filename": "0091.json",
+    "filename": "0091.png",
     "frame": { "x": 261, "y": 41, "w": 42, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -819,7 +819,7 @@
     "duration": 100
    },
    {
-    "filename": "0092.json",
+    "filename": "0092.png",
     "frame": { "x": 0, "y": 42, "w": 42, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -828,7 +828,7 @@
     "duration": 100
    },
    {
-    "filename": "0093.json",
+    "filename": "0093.png",
     "frame": { "x": 86, "y": 201, "w": 42, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -837,7 +837,7 @@
     "duration": 100
    },
    {
-    "filename": "0094.json",
+    "filename": "0094.png",
     "frame": { "x": 0, "y": 0, "w": 43, "h": 42 },
     "rotated": false,
     "trimmed": true,
@@ -846,7 +846,7 @@
     "duration": 100
    },
    {
-    "filename": "0095.json",
+    "filename": "0095.png",
     "frame": { "x": 43, "y": 0, "w": 43, "h": 42 },
     "rotated": false,
     "trimmed": true,
@@ -855,7 +855,7 @@
     "duration": 100
    },
    {
-    "filename": "0096.json",
+    "filename": "0096.png",
     "frame": { "x": 258, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -864,7 +864,7 @@
     "duration": 100
    },
    {
-    "filename": "0097.json",
+    "filename": "0097.png",
     "frame": { "x": 86, "y": 41, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -873,7 +873,7 @@
     "duration": 100
    },
    {
-    "filename": "0098.json",
+    "filename": "0098.png",
     "frame": { "x": 172, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -882,7 +882,7 @@
     "duration": 100
    },
    {
-    "filename": "0099.json",
+    "filename": "0099.png",
     "frame": { "x": 215, "y": 0, "w": 43, "h": 41 },
     "rotated": false,
     "trimmed": true,
@@ -891,7 +891,7 @@
     "duration": 100
    },
    {
-    "filename": "0100.json",
+    "filename": "0100.png",
     "frame": { "x": 0, "y": 122, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -900,7 +900,7 @@
     "duration": 100
    },
    {
-    "filename": "0101.json",
+    "filename": "0101.png",
     "frame": { "x": 42, "y": 42, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -909,7 +909,7 @@
     "duration": 100
    },
    {
-    "filename": "0102.json",
+    "filename": "0102.png",
     "frame": { "x": 43, "y": 122, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -918,7 +918,7 @@
     "duration": 100
    },
    {
-    "filename": "0103.json",
+    "filename": "0103.png",
     "frame": { "x": 257, "y": 122, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -927,7 +927,7 @@
     "duration": 100
    },
    {
-    "filename": "0104.json",
+    "filename": "0104.png",
     "frame": { "x": 128, "y": 201, "w": 42, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -936,7 +936,7 @@
     "duration": 100
    },
    {
-    "filename": "0105.json",
+    "filename": "0105.png",
     "frame": { "x": 0, "y": 83, "w": 42, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -945,7 +945,7 @@
     "duration": 100
    },
    {
-    "filename": "0106.json",
+    "filename": "0106.png",
     "frame": { "x": 86, "y": 161, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -954,7 +954,7 @@
     "duration": 100
    },
    {
-    "filename": "0107.json",
+    "filename": "0107.png",
     "frame": { "x": 129, "y": 161, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -963,7 +963,7 @@
     "duration": 100
    },
    {
-    "filename": "0108.json",
+    "filename": "0108.png",
     "frame": { "x": 172, "y": 161, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -972,7 +972,7 @@
     "duration": 100
    },
    {
-    "filename": "0109.json",
+    "filename": "0109.png",
     "frame": { "x": 0, "y": 162, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -981,7 +981,7 @@
     "duration": 100
    },
    {
-    "filename": "0110.json",
+    "filename": "0110.png",
     "frame": { "x": 214, "y": 121, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -990,7 +990,7 @@
     "duration": 100
    },
    {
-    "filename": "0111.json",
+    "filename": "0111.png",
     "frame": { "x": 43, "y": 162, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -999,7 +999,7 @@
     "duration": 100
    },
    {
-    "filename": "0112.json",
+    "filename": "0112.png",
     "frame": { "x": 215, "y": 162, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -1008,7 +1008,7 @@
     "duration": 100
    },
    {
-    "filename": "0113.json",
+    "filename": "0113.png",
     "frame": { "x": 258, "y": 162, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -1017,7 +1017,7 @@
     "duration": 100
    },
    {
-    "filename": "0114.json",
+    "filename": "0114.png",
     "frame": { "x": 172, "y": 81, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -1026,7 +1026,7 @@
     "duration": 100
    },
    {
-    "filename": "0115.json",
+    "filename": "0115.png",
     "frame": { "x": 0, "y": 241, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -1035,7 +1035,7 @@
     "duration": 100
    },
    {
-    "filename": "0116.json",
+    "filename": "0116.png",
     "frame": { "x": 256, "y": 202, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -1044,7 +1044,7 @@
     "duration": 100
    },
    {
-    "filename": "0117.json",
+    "filename": "0117.png",
     "frame": { "x": 170, "y": 240, "w": 43, "h": 39 },
     "rotated": false,
     "trimmed": true,
@@ -1053,7 +1053,7 @@
     "duration": 100
    },
    {
-    "filename": "0118.json",
+    "filename": "0118.png",
     "frame": { "x": 173, "y": 41, "w": 44, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -1062,7 +1062,7 @@
     "duration": 100
    },
    {
-    "filename": "0119.json",
+    "filename": "0119.png",
     "frame": { "x": 215, "y": 81, "w": 43, "h": 40 },
     "rotated": false,
     "trimmed": true,
@@ -1071,7 +1071,7 @@
     "duration": 100
    },
    {
-    "filename": "0120.json",
+    "filename": "0120.png",
     "frame": { "x": 217, "y": 41, "w": 44, "h": 40 },
     "rotated": false,
     "trimmed": true,
