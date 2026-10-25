@@ -199,6 +199,7 @@ path = [
     "bgm/title_afd.mp3",
     "bgm/title_afd_2.mp3",
     "bgm/winter_title.mp3",
+    "bgm/halloween_title.mp3",
 ]
 SPDX-FileCopyrightText = "Andr06"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
@@ -226,7 +227,10 @@ SPDX-FileCopyrightText = "MattCello"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 
 [[annotations]] # Veilure
-path = ["bgm/underground_well.mp3"]
+path = [
+    "bgm/underground_well.mp3",
+    "bgm/halloween_title.mp3",
+]
 SPDX-FileCopyrightText = "Veilure"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
 

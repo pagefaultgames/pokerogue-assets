@@ -1,41 +1,20 @@
-{
-	"textures": [
-		{
-			"image": "956.png",
-			"format": "RGBA8888",
-			"size": {
-				"w": 72,
-				"h": 72
-			},
-			"scale": 0.5,
-			"frames": [
-				{
-					"filename": "0001.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 96,
-						"h": 96
-					},
-					"spriteSourceSize": {
-						"x": 19,
-						"y": 12,
-						"w": 58,
-						"h": 72
-					},
-					"frame": {
-						"x": 0,
-						"y": 0,
-						"w": 58,
-						"h": 72
-					}
-				}
-			]
-		}
-	],
-	"meta": {
-		"app": "https://www.codeandweb.com/texturepacker",
-		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:a6b2a54285fbf98a71200e0173b6769d:aab54362d7affef187e9a173c692c50e:52afd4df707ef62c5c94736be60596f9$"
-	}
+{ "frames": [
+   {
+    "filename": "0001.png",
+    "frame": { "x": 0, "y": 0, "w": 62, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 62, "h": 57 },
+    "sourceSize": { "w": 62, "h": 57 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.14-beta1-x64",
+  "image": "956.png",
+  "format": "RGBA8888",
+  "size": { "w": 62, "h": 57 },
+  "scale": "1"
+ }
 }
