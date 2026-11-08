@@ -1,10 +1,10 @@
 { "frames": [
    {
-    "filename": "0001.png",
-    "frame": { "x": 0, "y": 0, "w": 53, "h": 50 },
+    "filename": "0001.json",
+    "frame": { "x": 0, "y": 0, "w": 54, "h": 50 },
     "rotated": false,
-    "trimmed": true,
-    "spriteSourceSize": { "x": 1, "y": 0, "w": 53, "h": 50 },
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 50 },
     "sourceSize": { "w": 54, "h": 50 },
     "duration": 100
    }
@@ -14,7 +14,7 @@
   "version": "1.3.14-beta1-x64",
   "image": "947.png",
   "format": "RGBA8888",
-  "size": { "w": 53, "h": 50 },
+  "size": { "w": 54, "h": 50 },
   "scale": "1"
  }
 }
