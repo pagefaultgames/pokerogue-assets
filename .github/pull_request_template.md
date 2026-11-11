@@ -1,4 +1,5 @@
-<!-- (Once you have read these comments, you are free to remove them) -->
+<!-- Once you have read these comments, you are free to remove them. -->
+
 <!--
 Make sure the title includes categorization (choose the one that best fits):
 -  [Sprite]: If the PR is adding or changing sprites
@@ -36,6 +37,7 @@ If not, explain both what this PR changes and what it strives to accomplish.
 -->
 - [ ] Main repo PR: [link here or N/A]
 
+
 ## Screenshots/Videos
 <!--
 Post any screenshots/videos showing your additions/edits working properly in the game if they are not already in an associated main repo PR.
@@ -44,13 +46,7 @@ While not strictly required for smaller fixes, any major changes should ideally 
 -->
 
 
-## Additional Information
-<!--
-Include any additional information
--->
-
 ## Checklist
-- [ ] **I'm using `beta` as my base branch**.
 - [ ] I have attached a link to a main repo PR and/or properly explained the changes.
 - [ ] I have provided screenshots/videos of the changes (if applicable).
   - [ ] I have made sure that any UI change works for both UI themes (default and legacy).
