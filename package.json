@@ -14,7 +14,7 @@
     "typecheck": "tsc"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.14",
+    "@biomejs/biome": "2.6.7",
     "@types/node": "^24.13.6",
     "lefthook": "^2.1.14",
     "typescript": "^6.0.3",
