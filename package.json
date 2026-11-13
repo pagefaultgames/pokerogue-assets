@@ -14,17 +14,17 @@
     "typecheck": "tsc"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.14",
-    "@types/node": "^24.13.6",
-    "lefthook": "^2.1.14",
+    "@biomejs/biome": "2.6.7",
+    "@types/node": "^24.19.2",
+    "lefthook": "^2.2.2",
     "typescript": "^6.0.3",
-    "vitest": "^5.0.1"
+    "vitest": "^5.1.0"
   },
-  "packageManager": "pnpm@12.5.1",
+  "packageManager": "pnpm@12.18.0",
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
-      "version": "12.5.1",
+      "version": "12.18.0",
       "onFail": "download"
     },
     "runtime": {
