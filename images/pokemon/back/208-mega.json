@@ -14,19 +14,19 @@
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 83,
+						"w": 85,
 						"h": 87
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 83,
+						"w": 85,
 						"h": 87
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-						"w": 83,
+						"w": 85,
 						"h": 87
 					}
 				}
