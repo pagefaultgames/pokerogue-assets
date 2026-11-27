@@ -4,8 +4,8 @@
 			"image": "971.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 57,
-				"h": 57
+				"w": 43,
+				"h": 49
 			},
 			"scale": 0.5,
 			"frames": [
@@ -14,20 +14,20 @@
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 96,
-						"h": 96
+						"w": 43,
+						"h": 49
 					},
 					"spriteSourceSize": {
 						"x": 23,
 						"y": 19,
-						"w": 50,
-						"h": 57
+						"w": 43,
+						"h": 49
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-						"w": 50,
-						"h": 57
+						"w": 43,
+						"h": 49
 					}
 				}
 			]
